@@ -9,6 +9,10 @@
 #import <Foundation/Foundation.h>
 #import "UITextField+Editing.h"
 
+/*
+ * qq:1311054081@qq.com
+ * 邮箱:zhangkangreadstone.com
+ */
 @interface SafeKeyBoardTool : NSObject
 
 + (SafeKeyBoardTool *)shareKeyBoardTool;
